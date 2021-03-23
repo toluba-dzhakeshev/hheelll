@@ -1,0 +1,5 @@
+students = ['alesha', 'zdarova', 'privet']
+products = ['kasha', 'pomidor']
+days = ('ponedelnik', 'vtornik')
+planets = ('zemlya', 'yupiter')
+print(students, products, days, planets, end=' ')
